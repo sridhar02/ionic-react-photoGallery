@@ -1,5 +1,6 @@
 {
   "name": "photo-gallery",
+  "API_KEY":"",
   "integrations": {
     "capacitor": {}
   },
