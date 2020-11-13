@@ -1,0 +1,7 @@
+{
+  "name": "permissions",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
